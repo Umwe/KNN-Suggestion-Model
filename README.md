@@ -28,7 +28,7 @@ pip install -r requirements.txt
 Installation
 Clone the repository:
   
-git clone https://github.com/yourusername/KNN-Suggestion-Model.git
+git clone https://github.com/umwe/KNN-Suggestion-Model.git
 Navigate into the directory:
   
 cd KNN-Suggestion-Model
